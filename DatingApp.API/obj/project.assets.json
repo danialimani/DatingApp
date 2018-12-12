@@ -12138,11 +12138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LearnAngoular\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "F:\\Learning\\LearnAngoular\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "F:\\LearnAngoular\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "F:\\Learning\\LearnAngoular\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\Mana\\.nuget\\packages\\",
-      "outputPath": "F:\\LearnAngoular\\DatingApp\\DatingApp.API\\obj\\",
+      "outputPath": "F:\\Learning\\LearnAngoular\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12,3 +12,17 @@ F:\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.A
 F:\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
 F:\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 F:\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+F:\Learning\LearnAngoular\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
